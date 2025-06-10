@@ -33,5 +33,5 @@ A mobile-responsive, interactive 3D simulation of our solar system built using *
 ### 1. Clone the repository
 ```sh
 git clone https://github.com/your-username/3d-solar-system.git
-
+and click on 'Go live'
 
